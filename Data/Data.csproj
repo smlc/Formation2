@@ -66,6 +66,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DirectionDB.cs" />
     <Compile Include="Migrations\201602191109111_Ajout de la structure des recettes.cs" />
     <Compile Include="Migrations\201602191109111_Ajout de la structure des recettes.Designer.cs">
       <DependentUpon>201602191109111_Ajout de la structure des recettes.cs</DependentUpon>

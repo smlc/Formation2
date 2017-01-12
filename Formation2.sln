@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IHM", "IHM\IHM.csproj", "{CEBC2334-83D2-48A9-8FF5-C8C957A473B7}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContract", "DataContract\DataContract.csproj", "{A96C5462-03F6-4F1F-AF3A-30F6D19B19C5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{D8AD535F-579C-4F7C-9CC7-3E667298DC52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataJson", "DataJson\DataJson.csproj", "{AEFE8B58-6C28-4F6B-9041-AF4D10EBA6BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D8AD535F-579C-4F7C-9CC7-3E667298DC52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8AD535F-579C-4F7C-9CC7-3E667298DC52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8AD535F-579C-4F7C-9CC7-3E667298DC52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEFE8B58-6C28-4F6B-9041-AF4D10EBA6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEFE8B58-6C28-4F6B-9041-AF4D10EBA6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEFE8B58-6C28-4F6B-9041-AF4D10EBA6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEFE8B58-6C28-4F6B-9041-AF4D10EBA6BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
